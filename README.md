@@ -1,4 +1,4 @@
-# AutoPiCoder Repository
+# AutoBerryPi Repository
 
 Welcome to the AutoPiCoder repository, where the Raspberry Pi meets automation, thanks to the power of Autogen. This repository is a treasure trove of scripts and tools designed to supercharge your Pi with self-programming capabilities.
 
