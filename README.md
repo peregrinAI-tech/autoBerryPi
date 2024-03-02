@@ -20,7 +20,7 @@ We've put Autogen through its paces here, challenging it to create scripts that 
 
 ## What's Next?
 
-While we're proud of the strides we've made, the journey doesn't end here. Here's what's on the docket for future updates:
+Here's what's on the docket for future updates:
 
 - **Microphone Support**: We're looking to go hands-free by adding voice input capabilities. Imagine dictating commands to your Pi and watching it spring into action.
 - **Drive Repository Connection**: To streamline the workflow, we plan to connect the Pi to a drive repository. This way, every piece of code and every note gets backed up and accessible from anywhere.
