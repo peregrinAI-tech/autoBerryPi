@@ -1,6 +1,8 @@
 # AutoBerryPi Repository
 ![My Example Image](raspberry1.jpg "Give me the stock value for CEMEX")
 
+Medium Article - https://medium.com/@ismael.peregrina/open-ai-autogen-raspberry-pi-autoberrypi-part-1-8107b3ceb531
+
 Welcome to the AutoPiCoder repository, where the Raspberry Pi meets automation, thanks to the power of Autogen. This repository is a treasure trove of scripts and tools designed to supercharge your Pi with self-programming capabilities.
 
 ## Repository Contents
